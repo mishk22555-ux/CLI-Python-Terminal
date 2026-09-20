@@ -1,6 +1,6 @@
 # CLI Python Terminal
 
-This is a Simple CLI Python Terminal
+A simple CLI terminal application written in Python.
 
 ## Tools
 
