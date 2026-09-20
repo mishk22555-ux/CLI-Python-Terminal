@@ -11,6 +11,7 @@ This is a Simple CLI Python Terminal
 * Pathlib
 * Enum
 * Pyttsx3
+* Datetime
 * Git
 
 ## Clone Repository
